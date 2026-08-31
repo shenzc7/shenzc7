@@ -1,6 +1,6 @@
 <div align="center">
 
-Building reliable software across web and desktop.
+Web · Desktop · Systems
 
 <br />
 
