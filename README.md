@@ -1,7 +1,5 @@
 <div align="center">
 
-# Shenz
-
 Building reliable software across web and desktop.
 
 <br />
